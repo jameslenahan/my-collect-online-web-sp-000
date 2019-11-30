@@ -2,7 +2,8 @@ array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
 def my_collect(array)
   i = 0 
-  collection
+  collection = []
+  while i 
   array.split("").first
 end
   
