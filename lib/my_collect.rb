@@ -7,6 +7,6 @@ def my_collect(array)
     name_collection.push yield(array[1])
     i += 1 
   end
-  return 
+  return name_collection
 end
   
